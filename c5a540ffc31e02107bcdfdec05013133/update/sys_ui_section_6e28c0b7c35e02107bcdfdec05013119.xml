@@ -4,41 +4,55 @@
             <element>u_string_2</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-27 17:05:03</sys_created_on>
-            <sys_id>6de804f7c35e02107bcdfdec050131e0</sys_id>
+            <sys_created_on>2024-05-27 19:32:57</sys_created_on>
+            <sys_id>58cae43fc3de02107bcdfdec0501310c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional details" display_value="Additional details" name="x_1366220_abha_lea_student" sys_domain="global" view="Default view">6e28c0b7c35e02107bcdfdec05013119</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-27 17:05:03</sys_updated_on>
+            <sys_updated_on>2024-05-27 19:32:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-27 19:32:57</sys_created_on>
+            <sys_id>50cae43fc3de02107bcdfdec0501310d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional details" display_value="Additional details" name="x_1366220_abha_lea_student" sys_domain="global" view="Default view">6e28c0b7c35e02107bcdfdec05013119</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-27 19:32:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-27 17:05:03</sys_created_on>
-            <sys_id>61e804f7c35e02107bcdfdec050131e1</sys_id>
+            <sys_created_on>2024-05-27 19:32:57</sys_created_on>
+            <sys_id>54cae43fc3de02107bcdfdec0501310d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional details" display_value="Additional details" name="x_1366220_abha_lea_student" sys_domain="global" view="Default view">6e28c0b7c35e02107bcdfdec05013119</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-27 17:05:03</sys_updated_on>
+            <sys_updated_on>2024-05-27 19:32:57</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_3</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-27 17:05:03</sys_created_on>
-            <sys_id>65e804f7c35e02107bcdfdec050131e1</sys_id>
+            <sys_created_on>2024-05-27 19:32:57</sys_created_on>
+            <sys_id>58cae43fc3de02107bcdfdec0501310d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional details" display_value="Additional details" name="x_1366220_abha_lea_student" sys_domain="global" view="Default view">6e28c0b7c35e02107bcdfdec05013119</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-27 17:05:03</sys_updated_on>
+            <sys_updated_on>2024-05-27 19:32:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

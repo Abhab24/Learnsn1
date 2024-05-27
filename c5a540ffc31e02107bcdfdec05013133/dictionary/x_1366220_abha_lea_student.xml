@@ -8,9 +8,7 @@
         </element>
         <element label="Maths marks" max_length="255" name="marks_a" type="integer"/>
         <element label="Name" max_length="40" name="name" type="string"/>
-        <element choice="1" label="marks B" max_length="40" name="u_integer_1" type="integer">
-            <choice/>
-        </element>
+        <element label="Pin Code" max_length="40" name="u_integer_1" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Science marks" max_length="40" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="u_string_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Blood group" max_length="40" name="u_string_3" type="string">
