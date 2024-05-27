@@ -6,7 +6,7 @@
                 <element inactive_on_update="false" label="Female" sequence="1" value="Female"/>
             </choice>
         </element>
-        <element label="Maths marks" max_length="255" name="marks_a" type="integer"/>
+        <element label="Maths subject marks" max_length="255" name="marks_a" type="integer"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element label="Pin Code" max_length="40" name="u_integer_1" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Science marks" max_length="40" name="u_string_1" type="string"/>
